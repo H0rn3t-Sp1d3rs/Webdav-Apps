@@ -2,7 +2,7 @@
 
 <h2>Download</h2>
 
-📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Webdav-Apps/blob/main/webdav.apk?raw=true">Download</a> the Webdav Apps.
+📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Webdav-Apps/blob/main/Webdav.apk?raw=true">Download</a> the Webdav Apps.
 <br>
 <br>
 <h3>About H0rn3t Sp1d3rs</h3>
